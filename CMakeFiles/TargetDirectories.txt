@@ -1,0 +1,16 @@
+D:/repos/SFML/CMakeFiles/INSTALL.dir
+D:/repos/SFML/CMakeFiles/ALL_BUILD.dir
+D:/repos/SFML/CMakeFiles/ZERO_CHECK.dir
+D:/repos/SFML/src/SFML/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/System/CMakeFiles/sfml-system.dir
+D:/repos/SFML/src/SFML/System/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/Main/CMakeFiles/sfml-main.dir
+D:/repos/SFML/src/SFML/Main/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir
+D:/repos/SFML/src/SFML/Window/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir
+D:/repos/SFML/src/SFML/Network/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+D:/repos/SFML/src/SFML/Graphics/CMakeFiles/INSTALL.dir
+D:/repos/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+D:/repos/SFML/src/SFML/Audio/CMakeFiles/INSTALL.dir
